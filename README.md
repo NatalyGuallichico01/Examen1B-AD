@@ -1,1 +1,10 @@
 # Examen1B-AD
+1.-Tomamos los elementos de twetter con nuestras API keys para extraer los datos y desde la interfaz conectamos con la base couchdb y creamos una base de datos llamada adolescente1, donde se guardar nuestros datos extraidos de twitter.
+2.-Tomamos los elementos de una red de internet de la pag http://quotes.toscrape.com/page/ ocupamos la funcion soup para obtener el contenido html del sitio, creamos un bucle para obtener valores y proceder a ingresar a un diccionario y extraemos los datos, posterior a eso procedemos a guarda en mi base de datos mongodb llamada db
+3.-Conectamos con nuestra base de datos mongodb facebook, realizamos un bucle para extraer los datos de la pagina limpiezaprofundaquito y procedemos a guardar nuestros datos en nuestra base de datos.
+4.-No pude ing lo siento
+5.-Procedo a conectar mis bases couchdb y mongodb, paso mis datos adolescente1 de couchdb a mi base de datos en mongodb llamada adolescentes5.
+6.-Procedo a conectar mis bases couchdb y mongodb, tomo los datos de mi base de datos en mongodb llamada facebook y creo una nueva base de datos en i couchdb llamada adolescentes6, en el bucle pongo las bases que tengo excepto de la que voy a pasar los datos, voy leyendo las bases de datos existentes hasta encontrarme con la que necesito facebook, luego hago un list para observar q ue contiene mi base de datos para poder guardar los datos en un documento de tipo json y procedo a guardar mis datos en mi base de datos couchdb llamada adolescentes6
+7.-Procedo a conectar mis bases de datos mongodb y mongodbatlas,procedo a recuperar los datos de mi base de datos couchdb llamada adolescentes1 y guardo los datos en mi base de datos en mongodb atlas llamada adolescentes7.embarazos
+8.-Conecto mis bases de datos mongodb y mongodb atlas, tomos los datos de mi base de datos mongo db llamada facebook y utilizo un bucle para abri dicha base de datos y guardar en mi base de datos mongodb atlas
+9-10.-Conecto mis bases de datos creo una nueva base de datos y empiezo a buscar los datos para porceder a guardarlso en uarcivo datos.txt utilizando un dataframe.
